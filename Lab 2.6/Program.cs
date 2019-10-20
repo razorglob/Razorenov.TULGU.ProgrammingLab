@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_2_5
+namespace Lab_2_6
 {
     class Program
     {
@@ -14,9 +14,10 @@ namespace Lab_2_5
             double a = double.Parse(Console.ReadLine());
             Console.Write("b= ");
             double b = double.Parse(Console.ReadLine());
-            Console.WriteLine("{0:F3}/{1:F3}={2:F3}", a, b, a / b);
+            Console.Write("c= ");
+            double c = double.Parse(Console.ReadLine());
+            Console.WriteLine("<{0:F2}+{1:F2}>+{2:F2}={0:F2}+<{1:F2}+{2:F2}>", a, b, c, a + b + c);
             Console.Read();
-
         }
     }
 }
