@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BFED0357-9DE0-421F-BF24-C4363D08CE5C}</ProjectGuid>
+    <ProjectGuid>{389B4F22-AFEB-4E90-8FC0-CB73C4535898}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Razorenov.Tulgu.ProgrammingLab</RootNamespace>
-    <AssemblyName>Razorenov.Tulgu.ProgrammingLab</AssemblyName>
+    <RootNamespace>Lab_2._1</RootNamespace>
+    <AssemblyName>Lab 2.1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,9 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

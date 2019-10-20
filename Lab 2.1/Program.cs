@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Razorenov.Tulgu.ProgrammingLab
+namespace Lab_2_1
 {
     class Program
     {

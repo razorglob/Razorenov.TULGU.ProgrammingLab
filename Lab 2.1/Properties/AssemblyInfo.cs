@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Razorenov.Tulgu.ProgrammingLab")]
+[assembly: AssemblyTitle("Lab 2.1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Razorenov.Tulgu.ProgrammingLab")]
+[assembly: AssemblyProduct("Lab 2.1")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("bfed0357-9de0-421f-bf24-c4363d08ce5c")]
+[assembly: Guid("389b4f22-afeb-4e90-8fc0-cb73c4535898")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
